@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halph.Ink", "Halph.Ink.csproj", "{B764FB0D-922C-4981-B517-19995ABD5DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B764FB0D-922C-4981-B517-19995ABD5DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B764FB0D-922C-4981-B517-19995ABD5DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B764FB0D-922C-4981-B517-19995ABD5DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B764FB0D-922C-4981-B517-19995ABD5DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8D53705-CF7A-453C-9027-7A5528AB1727}
+	EndGlobalSection
+EndGlobal
