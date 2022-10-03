@@ -1,5 +1,5 @@
+using System.Collections;
 namespace Halph.Ink;
-
 public class Formacao
 {
     private string _tipo;
