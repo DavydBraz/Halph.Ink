@@ -1,8 +1,13 @@
-﻿public class Projeto
+using Halph.Ink;
+using System.Collections;
+public class Projeto
 {
     private int _id;
     private string _name;
+    private Servico[] _servico;
     private string _status;
+    private Cliente[] _cliente;
+    private Designer[] _designer;
     private float _total;
     private DateTime _dataCriacao;
     private DateTime _prazo;
