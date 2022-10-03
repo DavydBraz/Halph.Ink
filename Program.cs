@@ -1,5 +1,5 @@
-﻿using System;
-
+using System;
+using System.Collections;
 namespace Halph.Ink
 {
     class Program
